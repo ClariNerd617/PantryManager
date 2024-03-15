@@ -6,6 +6,7 @@ This app will first have you inventory your pantry, including how much of someth
 Stretch goals: 
 - update inventory by scanning receipts
 - use inventory discover new recipes
+- integration with Flipp
 - integration with Instacart
 - integration with Notion/Obsidian/Logseq/Zettlr
 - Integration with Todoist/TickTick
