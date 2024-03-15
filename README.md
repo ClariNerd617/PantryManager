@@ -8,7 +8,7 @@ Stretch goals:
 - use inventory discover new recipes
 - integration with Instacart
 - integration with Notion/Obsidian/Logseq/Zettlr
-- Integration with Todoist
+- Integration with Todoist/TickTick
 - Nextcloud integration
 
 Up for debate: whether to use AI to generate recipes based on the pantry.
